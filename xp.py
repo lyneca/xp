@@ -2,7 +2,7 @@ __author__ = 'Wing2048'
 from tkinter import *
 
 root = Tk()
-
+root.wm_title("Stat Tracker")
 
 def get_next_level(l):
     if l <= 10:

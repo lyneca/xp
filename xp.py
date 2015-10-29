@@ -91,6 +91,5 @@ stats = [
 ]
 read()
 root.update()
-root.minsize(root.winfo_width() + 10, root.winfo_height())
 root.resizable(0, 0)
 root.mainloop()

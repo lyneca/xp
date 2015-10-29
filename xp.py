@@ -88,6 +88,9 @@ stats = [
     Stat(root, "Physics", 0, 1, 0, 0),
     Stat(root, "SDD", 0, 2, 0, 0),
     Stat(root, "IPT", 0, 3, 0, 0),
+    Stat(root, "Mathematics Ext I", 1, 0, 0, 0),
+    Stat(root, "Mathematics Ext II", 1, 1, 0, 0),
+    Stat(root, "English", 1, 2, 0, 0),
 ]
 read()
 root.update()
